@@ -1,3 +1,5 @@
+@font-face { font-family: SignPainter; src: url('SIGNPAINTER-HOUSESCRIPT.TTF'); }
+
 * {
   box-sizing: border-box; }
 
@@ -54,6 +56,7 @@ a {
       margin-left: 0; } }
 
 .page-header {
+  font-family: SignPainter
   color: #fff;
   text-align: center;
   background-color: #FF512F;
