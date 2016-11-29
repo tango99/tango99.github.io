@@ -6,4 +6,7 @@ function stlyeFire() {
     document.getElementById("welcome").style.color = "#C02425";
     document.getElementsByClassName("page-head")[0].style.background = "linear-gradient(120deg, #C02425, #F0CB35)";
 }
-
+function stlyeLush() {
+    document.getElementById("welcome").style.color = "#A8E063";
+    document.getElementsByClassName("page-head")[0].style.background = "linear-gradient(120deg, #56AB2F, #A8E063)";
+}
