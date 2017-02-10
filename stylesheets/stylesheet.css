@@ -1,4 +1,7 @@
-@font-face { font-family: SignPainter; src: url('SIGNPAINTER-HOUSESCRIPT.TTF'); }
+@font-face { 
+  font-family: SignPainter; 
+  src: url('SIGNPAINTER-HOUSESCRIPT.TTF');
+}
 
 * {
   box-sizing: border-box; }
